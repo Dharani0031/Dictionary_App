@@ -5,9 +5,9 @@ It allows users to search for words to find their meanings. The interface is str
 https://stirring-dango-b232a8.netlify.app/
 
 # Tech Stack:
-HTML
-CSS
-JS
+- HTML
+- CSS
+- JS
 
 # SCREENSHOT:
 ![image](https://github.com/Dharani0031/Dictionary_App/assets/150164750/d1ea0116-7881-43eb-92dc-e88b51160ffa)
